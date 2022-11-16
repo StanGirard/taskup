@@ -1,4 +1,4 @@
-baseurl = "https://stangirard.github.io/taskup"
+baseurl = "https://www.taskup.app"
 title = "TaskUp"
 theme = "hugo-coder"
 languagecode = "en"
